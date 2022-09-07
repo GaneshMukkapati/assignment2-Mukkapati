@@ -27,5 +27,9 @@ Link to AboutME ![AboutMe](AboutMe.md)
 | vijayawada| Durga temple | 2 hour |
 | Guntur    | Manasasarovar| 5 hour |
 ---
-
+# pithy quotes
+> "I have learned not to allow rejection to move me."
+>@ Author: Cicely Tyson<br>
+>"When you get tired, learn to rest not quit."
+>@ Author: Banksy<br>
 
