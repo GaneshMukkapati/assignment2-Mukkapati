@@ -43,6 +43,7 @@ The following PHP reads the directory of files and displays a styled table of th
 
 The link to source is <https://stackoverflow.com/questions/47762913/how-can-i-display-a-list-of-folders-on-a-local-webpage-by-only-using-html-and-ja>
 
+```
 
 <?php
 
@@ -88,6 +89,7 @@ echo('<p>'.$message.'</p>');
 
 </body>
 </html>
+
 ```
 
 
