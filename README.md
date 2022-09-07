@@ -18,3 +18,14 @@ The Museum showcases South Asian, Far Eastern and Western collections from prehi
 
 Link to AboutME ![AboutMe](AboutMe.md)
 
+# Table for cities
+--- 
+| city      | location     | time   |
+| ---:      | ---:         |    ---:|
+| Hyderabad | Charminar    | 2 hour |
+| Banglore  | Mysore palace| 3 hour |
+| vijayawada| Durga temple | 2 hour |
+| Guntur    | Manasasarovar| 5 hour |
+---
+
+
