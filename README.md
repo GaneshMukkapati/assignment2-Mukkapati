@@ -9,3 +9,7 @@ The Museum showcases South Asian, Far Eastern and Western collections from prehi
 2. After landing at Vijayawada airport there are a lot of modes of transport.
 3. One can straightaway take a cab to the museum which itself is a landmark.
 4. Other mode is taking a bus which will be available at the airport bus station and stops at Benz circle from there one can take a cab or auto rikshaw which will drop at the museum.
+* There are a lot of places to see in an around the museum.
+* The main attraction in vijayawada is DURGA TEMPLE located in Indrakeeladri.
+* And the KRISHNA RIVER view from Prakasam Barriage is an eye feast.
+* There are also a lot of Shopping malls and movie theatres in vijayawada.
